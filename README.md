@@ -1,2 +1,0 @@
-# calendar
-Exemplo de calendário
