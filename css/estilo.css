@@ -1,0 +1,26 @@
+#calendar {
+    width: 300px;
+}
+
+ul.list-atividade {
+    border: none;
+}
+
+.list-atividade li {
+    font-size: 1.1em;
+    line-height: 2em;
+    font-weight: bold;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.list-atividade li:first-child {
+    border-top: none;
+}
+
+.list-atividade li span {
+    font-weight: 300;
+    font-style: italic;
+}
